@@ -9,7 +9,8 @@ The analysis focuses on metrics such as completion rate, time spent per step, er
 🔗 https://public.tableau.com/views/Tableau_datos/AnlisisVanguard?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-![Uploading Análisis Vanguard.png…]()
+<img width="2030" height="1926" alt="Análisis Vanguard" src="https://github.com/user-attachments/assets/1c067988-73f8-4d2b-874e-f53d77681aa6" />
+
 
 
 ---
