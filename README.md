@@ -6,6 +6,9 @@ This project analyzes the impact of a new user interface design for Vanguard’s
 
 The analysis focuses on metrics such as completion rate, time spent per step, error rates, and demographic influences. Statistical tests were performed to assess the significance of observed differences.
 
+
+🔗 https://public.tableau.com/views/Tableau_datos/AnlisisVanguard?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
 ---
 
 ## Data Description
